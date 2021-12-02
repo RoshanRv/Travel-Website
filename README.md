@@ -21,4 +21,4 @@ Working Site:(https://travel-landing-page-rv.netlify.app/).
 
 ## Source
 
-This Landing Page is Inspired from Youtube Tutorial By[ Bedimcode] (https://www.youtube.com/c/Bedimcode) .
+This Landing Page is Inspired from Youtube Tutorial By[Bedimcode] (https://www.youtube.com/c/Bedimcode) .
