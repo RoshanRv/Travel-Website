@@ -769,7 +769,7 @@ body.dark_theme .scroll_header{
 
 /*                  Media   Queries          */
 
-@media screen and (max-width:360px) {
+@media screen and (max-width:767px) {
 
     .place_container{
         grid-template-columns: max-content;
