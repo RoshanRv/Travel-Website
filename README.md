@@ -2,7 +2,7 @@
 
 A Landing Page for a Travel Website.
 
-![Preview-Travel](https://user-images.githubusercontent.com/75238302/144479879-c198c9a8-9e9b-4526-964c-8a2f3ad05c12.jpeg).
+![Preview-Travel](https://user-images.githubusercontent.com/75238302/144479879-c198c9a8-9e9b-4526-964c-8a2f3ad05c12.jpeg) 
 
 ## General Info
 
