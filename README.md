@@ -2,6 +2,8 @@
 
 A Landing Page for a Travel Website.
 
+![Preview] (Preview-Travel.jpeg).
+
 ## General Info
 
 A Simple Landing Page created using HTML, CSS, Javascript and Javascript Libraries such as ScrollReveal and SliderJs.
@@ -19,4 +21,4 @@ Working Site:(https://travel-landing-page-rv.netlify.app/).
 
 ## Source
 
-This Landing Page is Inspired from Youtube Tutorial By Bedimcode.
+This Landing Page is Inspired from Youtube Tutorial By[ Bedimcode] (https://www.youtube.com/c/Bedimcode) .
