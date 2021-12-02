@@ -765,9 +765,7 @@ body.dark_theme .scroll_header{
     color: white;
 }
 
-body.dark_theme .nav_menu{
-    background-color: var(--gray);
-}
+
 
 /*                  Media   Queries          */
 
