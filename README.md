@@ -2,7 +2,7 @@
 
 A Landing Page for a Travel Website.
 
-![Preview] (Preview-Travel.jpeg).
+![Preview-Travel](https://user-images.githubusercontent.com/75238302/144479879-c198c9a8-9e9b-4526-964c-8a2f3ad05c12.jpeg).
 
 ## General Info
 
@@ -13,7 +13,7 @@ A Simple Landing Page created using HTML, CSS, Javascript and Javascript Librari
 * Includes Dark and Light Mode.
 * Contains Animaion when Scrolling.
 * Compatible for Small,Medium,Large Screen Devices.
-* Simple and Aesthatic 
+* Simple and Aesthetic. 
 
 ## Demo
 
