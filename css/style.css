@@ -765,6 +765,10 @@ body.dark_theme .scroll_header{
     color: white;
 }
 
+.main{
+    overflow-x: hidden;
+}
+
 
 
 /*                  Media   Queries          */
