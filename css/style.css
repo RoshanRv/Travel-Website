@@ -804,7 +804,7 @@ body.dark_theme .scroll_header{
         font-size: 2rem;
     }
 
-    .nav_menu{
+    body.dark_theme .nav_menu{
         background-color: var(--gray);
     }
  
