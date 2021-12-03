@@ -144,7 +144,7 @@ themeButton.addEventListener('click', () => {
 //              Scroll  Reveal  
 
 const sr =  ScrollReveal({
-    distance: '60px',
+    distance: '65px',
     duration: 2800,
     // reset: true,
 })
@@ -155,7 +155,7 @@ sr.reveal(`.home_data,.home_social_link, .home_info,
 .experience_data, .experience_overlay,
 .place_card,
 .sponsor_content,
-.footer_data, .footer_rights`,{
+.footer_data`,{
     origin: 'top',
     interval: 80,
 })
