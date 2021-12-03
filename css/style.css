@@ -803,6 +803,10 @@ body.dark_theme .scroll_header{
     .section_title{
         font-size: 2rem;
     }
+
+    .nav_menu{
+        background-color: var(--gray);
+    }
  
 }
 
